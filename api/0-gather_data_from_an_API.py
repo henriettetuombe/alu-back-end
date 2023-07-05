@@ -20,7 +20,7 @@ if __name__ == "__main__":
     """
         extract employee name
     """
-    employee_name = employee.get("OK")
+    employee_name = employee.get("name")
 
     """
         request user's TODO list
